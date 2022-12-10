@@ -11,6 +11,6 @@ The cs_fortuneteller predicts the winner of cs games. It takes input (future mat
 The project is my personal attempt to try do something harder just to see where my current skills are. I like the idea because it will use some AI techonology (or then not, I'm not sure at this point).
 
 
-## Acknowledgments
+## Documents
 
-* [Building AI Course](https://buildingai.elementsofai.com/)
+* [Learning path](/documents/learning_path.md)
