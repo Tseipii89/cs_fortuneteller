@@ -13,4 +13,4 @@ The project is my personal attempt to try do something harder just to see where 
 
 ## Documents
 
-* [Learning path](/documents/learning_path.md)
+* [Learning path](/documents/Learning_path.md)
